@@ -1,7 +1,7 @@
 # JaviPardo.github.io development 
 
 
-# *******
-# * WIP *
-# *******
+ *******
+ * WIP *
+ *******
  
